@@ -54,5 +54,12 @@
     "amount": 50.0,
     "conversionResult": 216025.98,
     "fechaHoraConsulta": "2024/10/29 12:41"
+  },
+  {
+    "baseCurrencyCode": "USD",
+    "targetCurrencyCode": "ARS",
+    "amount": 5000.0,
+    "conversionResult": 4944150.0,
+    "fechaHoraConsulta": "2024/10/29 14:13"
   }
 ]
