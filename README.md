@@ -31,6 +31,11 @@ Este es un conversor de monedas simple que permite a los usuarios convertir entr
 
 Para más detalles sobre el uso del aplicativo, consulta las imágenes en la carpeta `imagenes` de este proyecto.
 
+## GSON
+
+Carpeta que tiene el archivo .jar de GSON. Es necesario para la ejecución del proyecto.
+Se agrega en: file/archivo --> project structure/estructura proyecto --> modules/modulos.
+
 ## Estructura del Proyecto
 com.alura.convertidormonedas 
 
@@ -49,6 +54,9 @@ imagenes
 - menu.png 
 - conversor.png 
 - resultado.png
+
+GSON
+- gson-2.11.0.jar
 
 ## Funcionamiento de las clases
 
