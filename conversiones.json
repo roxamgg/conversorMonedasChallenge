@@ -1,0 +1,58 @@
+[
+  {
+    "baseCurrencyCode": "USD",
+    "targetCurrencyCode": "ARS",
+    "amount": 25.0,
+    "conversionResult": 24720.75,
+    "fechaHoraConsulta": "2024/10/29 11:37"
+  },
+  {
+    "baseCurrencyCode": "USD",
+    "targetCurrencyCode": "COP",
+    "amount": 100.0,
+    "conversionResult": 432051.96,
+    "fechaHoraConsulta": "2024/10/29 11:37"
+  },
+  {
+    "baseCurrencyCode": "COP",
+    "targetCurrencyCode": "USD",
+    "amount": 250.0,
+    "conversionResult": 0.057865,
+    "fechaHoraConsulta": "2024/10/29 11:37"
+  },
+  {
+    "baseCurrencyCode": "ARS",
+    "targetCurrencyCode": "USD",
+    "amount": 500.0,
+    "conversionResult": 0.5055,
+    "fechaHoraConsulta": "2024/10/29 11:38"
+  },
+  {
+    "baseCurrencyCode": "BRL",
+    "targetCurrencyCode": "USD",
+    "amount": 1000.0,
+    "conversionResult": 175.2,
+    "fechaHoraConsulta": "2024/10/29 11:55"
+  },
+  {
+    "baseCurrencyCode": "USD",
+    "targetCurrencyCode": "BRL",
+    "amount": 1500.0,
+    "conversionResult": 8560.35,
+    "fechaHoraConsulta": "2024/10/29 11:55"
+  },
+  {
+    "baseCurrencyCode": "USD",
+    "targetCurrencyCode": "ARS",
+    "amount": 25.0,
+    "conversionResult": 24720.75,
+    "fechaHoraConsulta": "2024/10/29 12:40"
+  },
+  {
+    "baseCurrencyCode": "USD",
+    "targetCurrencyCode": "COP",
+    "amount": 50.0,
+    "conversionResult": 216025.98,
+    "fechaHoraConsulta": "2024/10/29 12:41"
+  }
+]
