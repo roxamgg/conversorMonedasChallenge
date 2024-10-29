@@ -33,20 +33,22 @@ Para más detalles sobre el uso del aplicativo, consulta las imágenes en la car
 
 ## Estructura del Proyecto
 com.alura.convertidormonedas 
-├── principal 
-│ └── ConversorAPP.java //Clase principal que ejecuta la aplicación.
-├── metodos 
-│ ├── ConversorAPI.java //Trabaja las solicitudes a la API de conversión de moneda. 
-│ ├── ConversorLocalDateTime.java //Serializa y deserializa objetos LocalDateTime. 
-│ ├── UtilidadFile.java //Trabaja la lectura y escritura de archivos JSON. 
-│ └── UtilidadGson.java //Configura Gson para el manejo de JSON. 
-└── modelos 
-│ ├── Moneda.java //Representa la información de una conversión de moneda. 
-│ └── ResultadoConversor.java //Almacena el resultado de la conversión desde la API.
+
+1. principal 
+   - ConversorAPP.java //Clase principal que ejecuta la aplicación.
+2. metodos 
+   - ConversorAPI.java //Trabaja las solicitudes a la API de conversión de moneda. 
+   - ConversorLocalDateTime.java //Serializa y deserializa objetos LocalDateTime. 
+   - UtilidadFile.java //Trabaja la lectura y escritura de archivos JSON. 
+   - UtilidadGson.java //Configura Gson para el manejo de JSON. 
+3. modelos 
+   - Moneda.java //Representa la información de una conversión de moneda. 
+   - ResultadoConversor.java //Almacena el resultado de la conversión desde la API.
+     
 imagenes 
-├── menu.png 
-├── conversor.png 
-└── resultado.png
+- menu.png 
+- conversor.png 
+- resultado.png
 
 ## Funcionamiento de las clases
 
